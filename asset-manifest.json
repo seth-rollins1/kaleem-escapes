@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kaleem-escapes/static/css/main.3f99637d.chunk.css",
+    "main.js": "/kaleem-escapes/static/js/main.3f650673.chunk.js",
+    "main.js.map": "/kaleem-escapes/static/js/main.3f650673.chunk.js.map",
+    "runtime-main.js": "/kaleem-escapes/static/js/runtime-main.0d6d3206.js",
+    "runtime-main.js.map": "/kaleem-escapes/static/js/runtime-main.0d6d3206.js.map",
+    "static/js/2.eaaa55b4.chunk.js": "/kaleem-escapes/static/js/2.eaaa55b4.chunk.js",
+    "static/js/2.eaaa55b4.chunk.js.map": "/kaleem-escapes/static/js/2.eaaa55b4.chunk.js.map",
+    "index.html": "/kaleem-escapes/index.html",
+    "precache-manifest.0356e4ee1d255c3969843227f78f54ac.js": "/kaleem-escapes/precache-manifest.0356e4ee1d255c3969843227f78f54ac.js",
+    "service-worker.js": "/kaleem-escapes/service-worker.js",
+    "static/css/main.3f99637d.chunk.css.map": "/kaleem-escapes/static/css/main.3f99637d.chunk.css.map",
+    "static/js/2.eaaa55b4.chunk.js.LICENSE.txt": "/kaleem-escapes/static/js/2.eaaa55b4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kaleem-escapes/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d6d3206.js",
+    "static/js/2.eaaa55b4.chunk.js",
+    "static/css/main.3f99637d.chunk.css",
+    "static/js/main.3f650673.chunk.js"
+  ]
+}
